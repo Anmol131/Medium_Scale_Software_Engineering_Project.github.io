@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>Introduction | Medium_Scale_Software_Engineering_Project_Doc </title>
+      <title>Introduction | mysite </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="Introduction | Medium_Scale_Software_Engineering_Project_Doc ">
+      <meta name="title" content="Introduction | mysite ">
       
       
       <link rel="icon" href="../favicon.ico">
@@ -44,8 +44,8 @@
       <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
         <div class="container-xxl flex-nowrap">
           <a class="navbar-brand" href="../index.html">
-            <img id="logo" class="svg" src="../logo.svg" alt="Medium_Scale_Software_Engineering_Project_Doc">
-            Medium_Scale_Software_Engineering_Project_Doc
+            <img id="logo" class="svg" src="../logo.svg" alt="mysite">
+            mysite
           </a>
           <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
             <i class="bi bi-three-dots"></i>
@@ -87,6 +87,66 @@
         <article data-uid="">
 <h1 id="introduction">Introduction</h1>
 
+<h2 id="overview">Overview</h2>
+<p>This project implements <strong>BOOSE (Basic Object-Oriented Software Engineering) Interpreter</strong>, a comprehensive medium-scale software engineering solution built with .NET 8. The interpreter provides a complete implementation of the BOOSE language runtime, enabling execution of custom domain-specific programs with support for variables, methods, control flow, and graphics rendering.</p>
+<h2 id="project-purpose">Project Purpose</h2>
+<p>The BOOSE Interpreter serves as an educational and functional implementation of a domain-specific language (DSL) designed for procedural programming with integrated graphics capabilities. It demonstrates core software engineering principles including architecture design, code organization, and systematic testing practices suitable for medium-scale applications.</p>
+<h2 id="key-features">Key Features</h2>
+<ul>
+<li><p><strong>BOOSE Language Execution</strong>: Full-featured interpreter that parses and executes BOOSE programs with support for:</p>
+<ul>
+<li>Variable management (integer, real, and boolean types)</li>
+<li>Method definitions with parameters and return values</li>
+<li>Control flow structures (if/else, for loops, while loops)</li>
+<li>Array operations (peek/poke functionality)</li>
+<li>Boolean expressions with logical operators</li>
+</ul>
+</li>
+<li><p><strong>Graphics Rendering</strong>: Integrated canvas system enabling:</p>
+<ul>
+<li>Shape drawing (circles, rectangles, triangles)</li>
+<li>Color management via RGB values</li>
+<li>Cursor positioning and line drawing</li>
+<li>Text rendering capabilities</li>
+</ul>
+</li>
+<li><p><strong>Robust Architecture</strong>:</p>
+<ul>
+<li>Interface-driven design with <code>IBooseRunner</code> and <code>IVariableManager</code></li>
+<li>Separation of concerns through <code>AppCanvas</code> and <code>VariableManager</code></li>
+<li>Comprehensive error handling and validation</li>
+<li>Structured method definition storage</li>
+</ul>
+</li>
+</ul>
+<h2 id="technology-stack">Technology Stack</h2>
+<ul>
+<li><strong>Framework</strong>: .NET 8</li>
+<li><strong>Language</strong>: C#</li>
+<li><strong>UI Framework</strong>: Windows Forms</li>
+<li><strong>Testing</strong>: Microsoft Testing Framework (MSTest)</li>
+</ul>
+<h2 id="project-structure">Project Structure</h2>
+<p>The solution is organized into several key components:</p>
+<ul>
+<li><strong>UnrestrictedBooseRunner</strong>: Core interpreter engine responsible for parsing and executing BOOSE code</li>
+<li><strong>VariableManager</strong>: Manages variable storage, scoping, and lifecycle</li>
+<li><strong>AppCanvas</strong>: Graphics abstraction layer providing drawing primitives</li>
+<li><strong>Form1</strong>: Windows Forms user interface for interacting with the interpreter</li>
+<li><strong>CommandFactory</strong>: Factory pattern implementation for command handling</li>
+<li><strong>Test Suite</strong>: Comprehensive unit tests validating interpreter functionality</li>
+</ul>
+<h2 id="getting-started">Getting Started</h2>
+<p>To begin using the BOOSE Interpreter, refer to the <a href="getting-started.html">Getting Started</a> guide which covers installation, configuration, and basic usage examples.</p>
+<h2 id="documentation">Documentation</h2>
+<p>This documentation provides detailed information about:</p>
+<ul>
+<li>Setting up and configuring the interpreter</li>
+<li>Writing and executing BOOSE programs</li>
+<li>Architecture and design patterns</li>
+<li>API reference and method documentation</li>
+<li>Testing and quality assurance practices</li>
+</ul>
 
 </article>
 

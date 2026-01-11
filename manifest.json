@@ -11,6 +11,131 @@
       }
     },
     {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Medium_Scale_Software_Engineering_Project.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Medium_Scale_Software_Engineering_Project.AppCanvas.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Medium_Scale_Software_Engineering_Project.AppCanvas",
+      "Summary": "<p sourcefile=\"api/Medium_Scale_Software_Engineering_Project.AppCanvas.yml\" sourcestartlinenumber=\"1\">Canvas for drawing shapes and lines.\nImplements the ICanvas interface for BOOSE.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Medium_Scale_Software_Engineering_Project.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Medium_Scale_Software_Engineering_Project.Form1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Medium_Scale_Software_Engineering_Project.Form1",
+      "Summary": "<p sourcefile=\"api/Medium_Scale_Software_Engineering_Project.Form1.yml\" sourcestartlinenumber=\"1\">Main form for the BOOSE interpreter app.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Medium_Scale_Software_Engineering_Project.IBooseRunner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Medium_Scale_Software_Engineering_Project.IBooseRunner.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Medium_Scale_Software_Engineering_Project.IBooseRunner",
+      "Summary": "<p sourcefile=\"api/Medium_Scale_Software_Engineering_Project.IBooseRunner.yml\" sourcestartlinenumber=\"1\">Interface for BOOSE program execution.\nDefines the contract for running BOOSE code with a canvas.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Medium_Scale_Software_Engineering_Project.IVariableManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Medium_Scale_Software_Engineering_Project.IVariableManager.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Medium_Scale_Software_Engineering_Project.IVariableManager",
+      "Summary": "<p sourcefile=\"api/Medium_Scale_Software_Engineering_Project.IVariableManager.yml\" sourcestartlinenumber=\"1\">Interface for managing variables in BOOSE programs.\nDefines contracts for variable declaration, assignment, and retrieval.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Medium_Scale_Software_Engineering_Project.MyCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Medium_Scale_Software_Engineering_Project.MyCommandFactory.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Medium_Scale_Software_Engineering_Project.MyCommandFactory",
+      "Summary": "<p sourcefile=\"api/Medium_Scale_Software_Engineering_Project.MyCommandFactory.yml\" sourcestartlinenumber=\"1\">Factory for creating command objects for BOOSE.\nHandles error reporting for command creation.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Medium_Scale_Software_Engineering_Project.VariableManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Medium_Scale_Software_Engineering_Project.VariableManager.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Medium_Scale_Software_Engineering_Project.VariableManager",
+      "Summary": "<p sourcefile=\"api/Medium_Scale_Software_Engineering_Project.VariableManager.yml\" sourcestartlinenumber=\"1\">Manages variables, arrays, and their types for BOOSE programs.\nHandles declaration, assignment, and value retrieval.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Medium_Scale_Software_Engineering_Project.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Medium_Scale_Software_Engineering_Project.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Medium_Scale_Software_Engineering_Project",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "docs/getting-started.md",
       "output": {

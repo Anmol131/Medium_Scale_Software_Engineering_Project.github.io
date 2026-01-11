@@ -1,3 +1,782 @@
 ### YamlMime:XRefMap
 sorted: true
-references: []
+references:
+- uid: Medium_Scale_Software_Engineering_Project
+  name: Medium_Scale_Software_Engineering_Project
+  href: api/Medium_Scale_Software_Engineering_Project.html
+  commentId: N:Medium_Scale_Software_Engineering_Project
+  fullName: Medium_Scale_Software_Engineering_Project
+  nameWithType: Medium_Scale_Software_Engineering_Project
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas
+  name: AppCanvas
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html
+  commentId: T:Medium_Scale_Software_Engineering_Project.AppCanvas
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas
+  nameWithType: AppCanvas
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.#ctor(System.Windows.Forms.Panel)
+  name: AppCanvas(Panel)
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas__ctor_System_Windows_Forms_Panel_
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.#ctor(System.Windows.Forms.Panel)
+  name.vb: New(Panel)
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.AppCanvas(System.Windows.Forms.Panel)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.New(System.Windows.Forms.Panel)
+  nameWithType: AppCanvas.AppCanvas(Panel)
+  nameWithType.vb: AppCanvas.New(Panel)
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.#ctor*
+  name: AppCanvas
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas__ctor_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.AppCanvas
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.New
+  nameWithType: AppCanvas.AppCanvas
+  nameWithType.vb: AppCanvas.New
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Circle_System_Int32_System_Boolean_
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Circle(int, bool)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.Circle(Integer, Boolean)
+  nameWithType: AppCanvas.Circle(int, bool)
+  nameWithType.vb: AppCanvas.Circle(Integer, Boolean)
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Circle*
+  name: Circle
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Circle_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.Circle
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Circle
+  nameWithType: AppCanvas.Circle
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Clear
+  name: Clear()
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Clear
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.Clear
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Clear()
+  nameWithType: AppCanvas.Clear()
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Clear*
+  name: Clear
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Clear_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.Clear
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Clear
+  nameWithType: AppCanvas.Clear
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.DrawTo(int, int)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.DrawTo(Integer, Integer)
+  nameWithType: AppCanvas.DrawTo(int, int)
+  nameWithType.vb: AppCanvas.DrawTo(Integer, Integer)
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.DrawTo*
+  name: DrawTo
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_DrawTo_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.DrawTo
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.DrawTo
+  nameWithType: AppCanvas.DrawTo
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.ExportBase64
+  name: ExportBase64()
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_ExportBase64
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.ExportBase64
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.ExportBase64()
+  nameWithType: AppCanvas.ExportBase64()
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.ExportBase64*
+  name: ExportBase64
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_ExportBase64_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.ExportBase64
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.ExportBase64
+  nameWithType: AppCanvas.ExportBase64
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.ImportBase64(System.String)
+  name: ImportBase64(string)
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_ImportBase64_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.ImportBase64(System.String)
+  name.vb: ImportBase64(String)
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.ImportBase64(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.ImportBase64(String)
+  nameWithType: AppCanvas.ImportBase64(string)
+  nameWithType.vb: AppCanvas.ImportBase64(String)
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.ImportBase64*
+  name: ImportBase64
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_ImportBase64_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.ImportBase64
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.ImportBase64
+  nameWithType: AppCanvas.ImportBase64
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.MoveTo(int, int)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.MoveTo(Integer, Integer)
+  nameWithType: AppCanvas.MoveTo(int, int)
+  nameWithType.vb: AppCanvas.MoveTo(Integer, Integer)
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.MoveTo*
+  name: MoveTo
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_MoveTo_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.MoveTo
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.MoveTo
+  nameWithType: AppCanvas.MoveTo
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.PenColour
+  name: PenColour
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_PenColour
+  commentId: P:Medium_Scale_Software_Engineering_Project.AppCanvas.PenColour
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.PenColour*
+  name: PenColour
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_PenColour_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.PenColour
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.RealClear
+  name: RealClear()
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_RealClear
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.RealClear
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.RealClear()
+  nameWithType: AppCanvas.RealClear()
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.RealClear*
+  name: RealClear
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_RealClear_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.RealClear
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.RealClear
+  nameWithType: AppCanvas.RealClear
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Rect(int, int, bool)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: AppCanvas.Rect(int, int, bool)
+  nameWithType.vb: AppCanvas.Rect(Integer, Integer, Boolean)
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Rect*
+  name: Rect
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Rect_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.Rect
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Rect
+  nameWithType: AppCanvas.Rect
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Rectangle(System.Int32,System.Int32,System.Boolean)
+  name: Rectangle(int, int, bool)
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Rectangle_System_Int32_System_Int32_System_Boolean_
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.Rectangle(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rectangle(Integer, Integer, Boolean)
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Rectangle(int, int, bool)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.Rectangle(Integer, Integer, Boolean)
+  nameWithType: AppCanvas.Rectangle(int, int, bool)
+  nameWithType.vb: AppCanvas.Rectangle(Integer, Integer, Boolean)
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Rectangle*
+  name: Rectangle
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Rectangle_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.Rectangle
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Rectangle
+  nameWithType: AppCanvas.Rectangle
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Reset
+  name: Reset()
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Reset
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.Reset
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Reset()
+  nameWithType: AppCanvas.Reset()
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Reset*
+  name: Reset
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Reset_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.Reset
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Reset
+  nameWithType: AppCanvas.Reset
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Set_System_Int32_System_Int32_
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Set(int, int)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.Set(Integer, Integer)
+  nameWithType: AppCanvas.Set(int, int)
+  nameWithType.vb: AppCanvas.Set(Integer, Integer)
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Set*
+  name: Set
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Set_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.Set
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Set
+  nameWithType: AppCanvas.Set
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.SetColour(int, int, int)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: AppCanvas.SetColour(int, int, int)
+  nameWithType.vb: AppCanvas.SetColour(Integer, Integer, Integer)
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.SetColour*
+  name: SetColour
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_SetColour_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.SetColour
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.SetColour
+  nameWithType: AppCanvas.SetColour
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Tri(int, int)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.Tri(Integer, Integer)
+  nameWithType: AppCanvas.Tri(int, int)
+  nameWithType.vb: AppCanvas.Tri(Integer, Integer)
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Tri*
+  name: Tri
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Tri_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.Tri
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Tri
+  nameWithType: AppCanvas.Tri
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_WriteText_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.WriteText(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.AppCanvas.WriteText(String)
+  nameWithType: AppCanvas.WriteText(string)
+  nameWithType.vb: AppCanvas.WriteText(String)
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.WriteText*
+  name: WriteText
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_WriteText_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.WriteText
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.WriteText
+  nameWithType: AppCanvas.WriteText
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Xpos
+  name: Xpos
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Xpos
+  commentId: P:Medium_Scale_Software_Engineering_Project.AppCanvas.Xpos
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Xpos*
+  name: Xpos
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Xpos_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.Xpos
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Ypos
+  name: Ypos
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Ypos
+  commentId: P:Medium_Scale_Software_Engineering_Project.AppCanvas.Ypos
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.Ypos*
+  name: Ypos
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_Ypos_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.Ypos
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.getBitmap
+  name: getBitmap()
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_getBitmap
+  commentId: M:Medium_Scale_Software_Engineering_Project.AppCanvas.getBitmap
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.getBitmap()
+  nameWithType: AppCanvas.getBitmap()
+- uid: Medium_Scale_Software_Engineering_Project.AppCanvas.getBitmap*
+  name: getBitmap
+  href: api/Medium_Scale_Software_Engineering_Project.AppCanvas.html#Medium_Scale_Software_Engineering_Project_AppCanvas_getBitmap_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.AppCanvas.getBitmap
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.AppCanvas.getBitmap
+  nameWithType: AppCanvas.getBitmap
+- uid: Medium_Scale_Software_Engineering_Project.Form1
+  name: Form1
+  href: api/Medium_Scale_Software_Engineering_Project.Form1.html
+  commentId: T:Medium_Scale_Software_Engineering_Project.Form1
+  fullName: Medium_Scale_Software_Engineering_Project.Form1
+  nameWithType: Form1
+- uid: Medium_Scale_Software_Engineering_Project.Form1.#ctor
+  name: Form1()
+  href: api/Medium_Scale_Software_Engineering_Project.Form1.html#Medium_Scale_Software_Engineering_Project_Form1__ctor
+  commentId: M:Medium_Scale_Software_Engineering_Project.Form1.#ctor
+  name.vb: New()
+  fullName: Medium_Scale_Software_Engineering_Project.Form1.Form1()
+  fullName.vb: Medium_Scale_Software_Engineering_Project.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: Medium_Scale_Software_Engineering_Project.Form1.#ctor*
+  name: Form1
+  href: api/Medium_Scale_Software_Engineering_Project.Form1.html#Medium_Scale_Software_Engineering_Project_Form1__ctor_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Medium_Scale_Software_Engineering_Project.Form1.Form1
+  fullName.vb: Medium_Scale_Software_Engineering_Project.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: Medium_Scale_Software_Engineering_Project.Form1.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: api/Medium_Scale_Software_Engineering_Project.Form1.html#Medium_Scale_Software_Engineering_Project_Form1_Dispose_System_Boolean_
+  commentId: M:Medium_Scale_Software_Engineering_Project.Form1.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: Medium_Scale_Software_Engineering_Project.Form1.Dispose(bool)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.Form1.Dispose(Boolean)
+  nameWithType: Form1.Dispose(bool)
+  nameWithType.vb: Form1.Dispose(Boolean)
+- uid: Medium_Scale_Software_Engineering_Project.Form1.Dispose*
+  name: Dispose
+  href: api/Medium_Scale_Software_Engineering_Project.Form1.html#Medium_Scale_Software_Engineering_Project_Form1_Dispose_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.Form1.Dispose
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.Form1.Dispose
+  nameWithType: Form1.Dispose
+- uid: Medium_Scale_Software_Engineering_Project.IBooseRunner
+  name: IBooseRunner
+  href: api/Medium_Scale_Software_Engineering_Project.IBooseRunner.html
+  commentId: T:Medium_Scale_Software_Engineering_Project.IBooseRunner
+  fullName: Medium_Scale_Software_Engineering_Project.IBooseRunner
+  nameWithType: IBooseRunner
+- uid: Medium_Scale_Software_Engineering_Project.IBooseRunner.Run(System.String)
+  name: Run(string)
+  href: api/Medium_Scale_Software_Engineering_Project.IBooseRunner.html#Medium_Scale_Software_Engineering_Project_IBooseRunner_Run_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.IBooseRunner.Run(System.String)
+  name.vb: Run(String)
+  fullName: Medium_Scale_Software_Engineering_Project.IBooseRunner.Run(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.IBooseRunner.Run(String)
+  nameWithType: IBooseRunner.Run(string)
+  nameWithType.vb: IBooseRunner.Run(String)
+- uid: Medium_Scale_Software_Engineering_Project.IBooseRunner.Run*
+  name: Run
+  href: api/Medium_Scale_Software_Engineering_Project.IBooseRunner.html#Medium_Scale_Software_Engineering_Project_IBooseRunner_Run_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IBooseRunner.Run
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IBooseRunner.Run
+  nameWithType: IBooseRunner.Run
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager
+  name: IVariableManager
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html
+  commentId: T:Medium_Scale_Software_Engineering_Project.IVariableManager
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager
+  nameWithType: IVariableManager
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.Assign(System.String,System.Object)
+  name: Assign(string, object)
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_Assign_System_String_System_Object_
+  commentId: M:Medium_Scale_Software_Engineering_Project.IVariableManager.Assign(System.String,System.Object)
+  name.vb: Assign(String, Object)
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.Assign(string, object)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.IVariableManager.Assign(String, Object)
+  nameWithType: IVariableManager.Assign(string, object)
+  nameWithType.vb: IVariableManager.Assign(String, Object)
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.Assign*
+  name: Assign
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_Assign_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IVariableManager.Assign
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.Assign
+  nameWithType: IVariableManager.Assign
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.Declare(System.String,System.String,System.Object)
+  name: Declare(string, string, object)
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_Declare_System_String_System_String_System_Object_
+  commentId: M:Medium_Scale_Software_Engineering_Project.IVariableManager.Declare(System.String,System.String,System.Object)
+  name.vb: Declare(String, String, Object)
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.Declare(string, string, object)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.IVariableManager.Declare(String, String, Object)
+  nameWithType: IVariableManager.Declare(string, string, object)
+  nameWithType.vb: IVariableManager.Declare(String, String, Object)
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.Declare*
+  name: Declare
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_Declare_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IVariableManager.Declare
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.Declare
+  nameWithType: IVariableManager.Declare
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.DeclareArray(System.String,System.String,System.Int32)
+  name: DeclareArray(string, string, int)
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_DeclareArray_System_String_System_String_System_Int32_
+  commentId: M:Medium_Scale_Software_Engineering_Project.IVariableManager.DeclareArray(System.String,System.String,System.Int32)
+  name.vb: DeclareArray(String, String, Integer)
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.DeclareArray(string, string, int)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.IVariableManager.DeclareArray(String, String, Integer)
+  nameWithType: IVariableManager.DeclareArray(string, string, int)
+  nameWithType.vb: IVariableManager.DeclareArray(String, String, Integer)
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.DeclareArray*
+  name: DeclareArray
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_DeclareArray_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IVariableManager.DeclareArray
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.DeclareArray
+  nameWithType: IVariableManager.DeclareArray
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.GetAllNames
+  name: GetAllNames()
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_GetAllNames
+  commentId: M:Medium_Scale_Software_Engineering_Project.IVariableManager.GetAllNames
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.GetAllNames()
+  nameWithType: IVariableManager.GetAllNames()
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.GetAllNames*
+  name: GetAllNames
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_GetAllNames_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IVariableManager.GetAllNames
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.GetAllNames
+  nameWithType: IVariableManager.GetAllNames
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.GetValue(System.String)
+  name: GetValue(string)
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_GetValue_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.IVariableManager.GetValue(System.String)
+  name.vb: GetValue(String)
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.GetValue(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.IVariableManager.GetValue(String)
+  nameWithType: IVariableManager.GetValue(string)
+  nameWithType.vb: IVariableManager.GetValue(String)
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.GetValue*
+  name: GetValue
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_GetValue_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IVariableManager.GetValue
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.GetValue
+  nameWithType: IVariableManager.GetValue
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.IsArray(System.String)
+  name: IsArray(string)
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_IsArray_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.IVariableManager.IsArray(System.String)
+  name.vb: IsArray(String)
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.IsArray(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.IVariableManager.IsArray(String)
+  nameWithType: IVariableManager.IsArray(string)
+  nameWithType.vb: IVariableManager.IsArray(String)
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.IsArray*
+  name: IsArray
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_IsArray_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IVariableManager.IsArray
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.IsArray
+  nameWithType: IVariableManager.IsArray
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.IsBoolean(System.String)
+  name: IsBoolean(string)
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_IsBoolean_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.IVariableManager.IsBoolean(System.String)
+  name.vb: IsBoolean(String)
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.IsBoolean(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.IVariableManager.IsBoolean(String)
+  nameWithType: IVariableManager.IsBoolean(string)
+  nameWithType.vb: IVariableManager.IsBoolean(String)
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.IsBoolean*
+  name: IsBoolean
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_IsBoolean_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IVariableManager.IsBoolean
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.IsBoolean
+  nameWithType: IVariableManager.IsBoolean
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.IsDeclared(System.String)
+  name: IsDeclared(string)
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_IsDeclared_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.IVariableManager.IsDeclared(System.String)
+  name.vb: IsDeclared(String)
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.IsDeclared(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.IVariableManager.IsDeclared(String)
+  nameWithType: IVariableManager.IsDeclared(string)
+  nameWithType.vb: IVariableManager.IsDeclared(String)
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.IsDeclared*
+  name: IsDeclared
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_IsDeclared_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IVariableManager.IsDeclared
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.IsDeclared
+  nameWithType: IVariableManager.IsDeclared
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.Peek(System.String,System.Int32)
+  name: Peek(string, int)
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_Peek_System_String_System_Int32_
+  commentId: M:Medium_Scale_Software_Engineering_Project.IVariableManager.Peek(System.String,System.Int32)
+  name.vb: Peek(String, Integer)
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.Peek(string, int)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.IVariableManager.Peek(String, Integer)
+  nameWithType: IVariableManager.Peek(string, int)
+  nameWithType.vb: IVariableManager.Peek(String, Integer)
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.Peek*
+  name: Peek
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_Peek_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IVariableManager.Peek
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.Peek
+  nameWithType: IVariableManager.Peek
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.Poke(System.String,System.Int32,System.Double)
+  name: Poke(string, int, double)
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_Poke_System_String_System_Int32_System_Double_
+  commentId: M:Medium_Scale_Software_Engineering_Project.IVariableManager.Poke(System.String,System.Int32,System.Double)
+  name.vb: Poke(String, Integer, Double)
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.Poke(string, int, double)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.IVariableManager.Poke(String, Integer, Double)
+  nameWithType: IVariableManager.Poke(string, int, double)
+  nameWithType.vb: IVariableManager.Poke(String, Integer, Double)
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.Poke*
+  name: Poke
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_Poke_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IVariableManager.Poke
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.Poke
+  nameWithType: IVariableManager.Poke
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.Substitute(System.String)
+  name: Substitute(string)
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_Substitute_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.IVariableManager.Substitute(System.String)
+  name.vb: Substitute(String)
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.Substitute(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.IVariableManager.Substitute(String)
+  nameWithType: IVariableManager.Substitute(string)
+  nameWithType.vb: IVariableManager.Substitute(String)
+- uid: Medium_Scale_Software_Engineering_Project.IVariableManager.Substitute*
+  name: Substitute
+  href: api/Medium_Scale_Software_Engineering_Project.IVariableManager.html#Medium_Scale_Software_Engineering_Project_IVariableManager_Substitute_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.IVariableManager.Substitute
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.IVariableManager.Substitute
+  nameWithType: IVariableManager.Substitute
+- uid: Medium_Scale_Software_Engineering_Project.MyCommandFactory
+  name: MyCommandFactory
+  href: api/Medium_Scale_Software_Engineering_Project.MyCommandFactory.html
+  commentId: T:Medium_Scale_Software_Engineering_Project.MyCommandFactory
+  fullName: Medium_Scale_Software_Engineering_Project.MyCommandFactory
+  nameWithType: MyCommandFactory
+- uid: Medium_Scale_Software_Engineering_Project.MyCommandFactory.MakeCommand(System.String)
+  name: MakeCommand(string)
+  href: api/Medium_Scale_Software_Engineering_Project.MyCommandFactory.html#Medium_Scale_Software_Engineering_Project_MyCommandFactory_MakeCommand_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.MyCommandFactory.MakeCommand(System.String)
+  name.vb: MakeCommand(String)
+  fullName: Medium_Scale_Software_Engineering_Project.MyCommandFactory.MakeCommand(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.MyCommandFactory.MakeCommand(String)
+  nameWithType: MyCommandFactory.MakeCommand(string)
+  nameWithType.vb: MyCommandFactory.MakeCommand(String)
+- uid: Medium_Scale_Software_Engineering_Project.MyCommandFactory.MakeCommand*
+  name: MakeCommand
+  href: api/Medium_Scale_Software_Engineering_Project.MyCommandFactory.html#Medium_Scale_Software_Engineering_Project_MyCommandFactory_MakeCommand_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.MyCommandFactory.MakeCommand
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.MyCommandFactory.MakeCommand
+  nameWithType: MyCommandFactory.MakeCommand
+- uid: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner
+  name: UnrestrictedBooseRunner
+  href: api/Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.html
+  commentId: T:Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner
+  fullName: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner
+  nameWithType: UnrestrictedBooseRunner
+- uid: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.#ctor(Medium_Scale_Software_Engineering_Project.AppCanvas)
+  name: UnrestrictedBooseRunner(AppCanvas)
+  href: api/Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.html#Medium_Scale_Software_Engineering_Project_UnrestrictedBooseRunner__ctor_Medium_Scale_Software_Engineering_Project_AppCanvas_
+  commentId: M:Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.#ctor(Medium_Scale_Software_Engineering_Project.AppCanvas)
+  name.vb: New(AppCanvas)
+  fullName: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.UnrestrictedBooseRunner(Medium_Scale_Software_Engineering_Project.AppCanvas)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.New(Medium_Scale_Software_Engineering_Project.AppCanvas)
+  nameWithType: UnrestrictedBooseRunner.UnrestrictedBooseRunner(AppCanvas)
+  nameWithType.vb: UnrestrictedBooseRunner.New(AppCanvas)
+- uid: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.#ctor*
+  name: UnrestrictedBooseRunner
+  href: api/Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.html#Medium_Scale_Software_Engineering_Project_UnrestrictedBooseRunner__ctor_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.UnrestrictedBooseRunner
+  fullName.vb: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.New
+  nameWithType: UnrestrictedBooseRunner.UnrestrictedBooseRunner
+  nameWithType.vb: UnrestrictedBooseRunner.New
+- uid: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.Run(System.String)
+  name: Run(string)
+  href: api/Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.html#Medium_Scale_Software_Engineering_Project_UnrestrictedBooseRunner_Run_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.Run(System.String)
+  name.vb: Run(String)
+  fullName: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.Run(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.Run(String)
+  nameWithType: UnrestrictedBooseRunner.Run(string)
+  nameWithType.vb: UnrestrictedBooseRunner.Run(String)
+- uid: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.Run*
+  name: Run
+  href: api/Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.html#Medium_Scale_Software_Engineering_Project_UnrestrictedBooseRunner_Run_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.Run
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.UnrestrictedBooseRunner.Run
+  nameWithType: UnrestrictedBooseRunner.Run
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager
+  name: VariableManager
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html
+  commentId: T:Medium_Scale_Software_Engineering_Project.VariableManager
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager
+  nameWithType: VariableManager
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.Assign(System.String,System.Object)
+  name: Assign(string, object)
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_Assign_System_String_System_Object_
+  commentId: M:Medium_Scale_Software_Engineering_Project.VariableManager.Assign(System.String,System.Object)
+  name.vb: Assign(String, Object)
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.Assign(string, object)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.VariableManager.Assign(String, Object)
+  nameWithType: VariableManager.Assign(string, object)
+  nameWithType.vb: VariableManager.Assign(String, Object)
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.Assign*
+  name: Assign
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_Assign_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.VariableManager.Assign
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.Assign
+  nameWithType: VariableManager.Assign
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.Declare(System.String,System.String,System.Object)
+  name: Declare(string, string, object)
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_Declare_System_String_System_String_System_Object_
+  commentId: M:Medium_Scale_Software_Engineering_Project.VariableManager.Declare(System.String,System.String,System.Object)
+  name.vb: Declare(String, String, Object)
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.Declare(string, string, object)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.VariableManager.Declare(String, String, Object)
+  nameWithType: VariableManager.Declare(string, string, object)
+  nameWithType.vb: VariableManager.Declare(String, String, Object)
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.Declare*
+  name: Declare
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_Declare_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.VariableManager.Declare
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.Declare
+  nameWithType: VariableManager.Declare
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.DeclareArray(System.String,System.String,System.Int32)
+  name: DeclareArray(string, string, int)
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_DeclareArray_System_String_System_String_System_Int32_
+  commentId: M:Medium_Scale_Software_Engineering_Project.VariableManager.DeclareArray(System.String,System.String,System.Int32)
+  name.vb: DeclareArray(String, String, Integer)
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.DeclareArray(string, string, int)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.VariableManager.DeclareArray(String, String, Integer)
+  nameWithType: VariableManager.DeclareArray(string, string, int)
+  nameWithType.vb: VariableManager.DeclareArray(String, String, Integer)
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.DeclareArray*
+  name: DeclareArray
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_DeclareArray_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.VariableManager.DeclareArray
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.DeclareArray
+  nameWithType: VariableManager.DeclareArray
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.GetAllNames
+  name: GetAllNames()
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_GetAllNames
+  commentId: M:Medium_Scale_Software_Engineering_Project.VariableManager.GetAllNames
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.GetAllNames()
+  nameWithType: VariableManager.GetAllNames()
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.GetAllNames*
+  name: GetAllNames
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_GetAllNames_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.VariableManager.GetAllNames
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.GetAllNames
+  nameWithType: VariableManager.GetAllNames
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.GetValue(System.String)
+  name: GetValue(string)
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_GetValue_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.VariableManager.GetValue(System.String)
+  name.vb: GetValue(String)
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.GetValue(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.VariableManager.GetValue(String)
+  nameWithType: VariableManager.GetValue(string)
+  nameWithType.vb: VariableManager.GetValue(String)
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.GetValue*
+  name: GetValue
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_GetValue_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.VariableManager.GetValue
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.GetValue
+  nameWithType: VariableManager.GetValue
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.IsArray(System.String)
+  name: IsArray(string)
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_IsArray_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.VariableManager.IsArray(System.String)
+  name.vb: IsArray(String)
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.IsArray(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.VariableManager.IsArray(String)
+  nameWithType: VariableManager.IsArray(string)
+  nameWithType.vb: VariableManager.IsArray(String)
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.IsArray*
+  name: IsArray
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_IsArray_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.VariableManager.IsArray
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.IsArray
+  nameWithType: VariableManager.IsArray
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.IsBoolean(System.String)
+  name: IsBoolean(string)
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_IsBoolean_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.VariableManager.IsBoolean(System.String)
+  name.vb: IsBoolean(String)
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.IsBoolean(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.VariableManager.IsBoolean(String)
+  nameWithType: VariableManager.IsBoolean(string)
+  nameWithType.vb: VariableManager.IsBoolean(String)
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.IsBoolean*
+  name: IsBoolean
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_IsBoolean_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.VariableManager.IsBoolean
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.IsBoolean
+  nameWithType: VariableManager.IsBoolean
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.IsDeclared(System.String)
+  name: IsDeclared(string)
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_IsDeclared_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.VariableManager.IsDeclared(System.String)
+  name.vb: IsDeclared(String)
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.IsDeclared(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.VariableManager.IsDeclared(String)
+  nameWithType: VariableManager.IsDeclared(string)
+  nameWithType.vb: VariableManager.IsDeclared(String)
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.IsDeclared*
+  name: IsDeclared
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_IsDeclared_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.VariableManager.IsDeclared
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.IsDeclared
+  nameWithType: VariableManager.IsDeclared
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.Peek(System.String,System.Int32)
+  name: Peek(string, int)
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_Peek_System_String_System_Int32_
+  commentId: M:Medium_Scale_Software_Engineering_Project.VariableManager.Peek(System.String,System.Int32)
+  name.vb: Peek(String, Integer)
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.Peek(string, int)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.VariableManager.Peek(String, Integer)
+  nameWithType: VariableManager.Peek(string, int)
+  nameWithType.vb: VariableManager.Peek(String, Integer)
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.Peek*
+  name: Peek
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_Peek_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.VariableManager.Peek
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.Peek
+  nameWithType: VariableManager.Peek
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.Poke(System.String,System.Int32,System.Double)
+  name: Poke(string, int, double)
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_Poke_System_String_System_Int32_System_Double_
+  commentId: M:Medium_Scale_Software_Engineering_Project.VariableManager.Poke(System.String,System.Int32,System.Double)
+  name.vb: Poke(String, Integer, Double)
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.Poke(string, int, double)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.VariableManager.Poke(String, Integer, Double)
+  nameWithType: VariableManager.Poke(string, int, double)
+  nameWithType.vb: VariableManager.Poke(String, Integer, Double)
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.Poke*
+  name: Poke
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_Poke_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.VariableManager.Poke
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.Poke
+  nameWithType: VariableManager.Poke
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.Substitute(System.String)
+  name: Substitute(string)
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_Substitute_System_String_
+  commentId: M:Medium_Scale_Software_Engineering_Project.VariableManager.Substitute(System.String)
+  name.vb: Substitute(String)
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.Substitute(string)
+  fullName.vb: Medium_Scale_Software_Engineering_Project.VariableManager.Substitute(String)
+  nameWithType: VariableManager.Substitute(string)
+  nameWithType.vb: VariableManager.Substitute(String)
+- uid: Medium_Scale_Software_Engineering_Project.VariableManager.Substitute*
+  name: Substitute
+  href: api/Medium_Scale_Software_Engineering_Project.VariableManager.html#Medium_Scale_Software_Engineering_Project_VariableManager_Substitute_
+  commentId: Overload:Medium_Scale_Software_Engineering_Project.VariableManager.Substitute
+  isSpec: "True"
+  fullName: Medium_Scale_Software_Engineering_Project.VariableManager.Substitute
+  nameWithType: VariableManager.Substitute

@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title>Getting Started | Medium_Scale_Software_Engineering_Project_Doc </title>
+      <title>Getting Started | mysite </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="Getting Started | Medium_Scale_Software_Engineering_Project_Doc ">
+      <meta name="title" content="Getting Started | mysite ">
       
       
       <link rel="icon" href="../favicon.ico">
@@ -44,8 +44,8 @@
       <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
         <div class="container-xxl flex-nowrap">
           <a class="navbar-brand" href="../index.html">
-            <img id="logo" class="svg" src="../logo.svg" alt="Medium_Scale_Software_Engineering_Project_Doc">
-            Medium_Scale_Software_Engineering_Project_Doc
+            <img id="logo" class="svg" src="../logo.svg" alt="mysite">
+            mysite
           </a>
           <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
             <i class="bi bi-three-dots"></i>
@@ -87,6 +87,187 @@
         <article data-uid="">
 <h1 id="getting-started">Getting Started</h1>
 
+<h2 id="installation--setup">Installation &amp; Setup</h2>
+<h3 id="prerequisites">Prerequisites</h3>
+<ul>
+<li><strong>.NET 8 SDK</strong> or later installed on your system</li>
+<li><strong>Visual Studio 2022</strong> (recommended) or any compatible C# IDE</li>
+<li><strong>Windows Forms Runtime</strong> (included with .NET 8)</li>
+</ul>
+<h3 id="running-the-application">Running the Application</h3>
+<ol>
+<li><p><strong>Clone or Open the Project</strong></p>
+</li>
+<li><p><strong>Open in Visual Studio</strong></p>
+<ul>
+<li>Launch Visual Studio 2022</li>
+<li>Open the solution file (<code>Medium_Scale_Software_Engineering_Project.sln</code>)</li>
+<li>Build the project using <strong>Build &gt; Build Solution</strong></li>
+</ul>
+</li>
+<li><p><strong>Run the Application</strong></p>
+<ul>
+<li>Press <code>F5</code> or select <strong>Debug &gt; Start Debugging</strong></li>
+<li>The BOOSE Interpreter application window will launch</li>
+</ul>
+</li>
+</ol>
+<h2 id="user-interface-overview">User Interface Overview</h2>
+<p>The BOOSE Interpreter features a Windows Forms-based interface with the following components:</p>
+<h3 id="main-window-layout">Main Window Layout</h3>
+<h3 id="key-components">Key Components</h3>
+<ul>
+<li><strong>Multi-line Editor</strong>: Write complex BOOSE programs with multiple statements</li>
+<li><strong>Single-line Input</strong>: Execute quick one-line commands or statements</li>
+<li><strong>Canvas Area</strong>: Visual output area where shapes and graphics are rendered</li>
+<li><strong>Debug Output</strong>: Displays execution results, errors, and validation messages</li>
+<li><strong>Control Buttons</strong>:
+<ul>
+<li><strong>Run</strong>: Execute the code from either multi-line or single-line editor</li>
+<li><strong>Clear</strong>: Reset all text boxes and canvas</li>
+<li><strong>Check</strong>: Validate syntax without executing</li>
+<li><strong>Save</strong>: Export code, output, and canvas to a <code>.boose</code> file</li>
+<li><strong>Load</strong>: Import previously saved sessions</li>
+</ul>
+</li>
+</ul>
+<h2 id="writing-your-first-program">Writing Your First Program</h2>
+<h3 id="example-1-simple-drawing">Example 1: Simple Drawing</h3>
+<p>Draw a blue circle at position (100, 100) with radius 50:</p>
+<pre><code class="lang-boose">// This is a comment
+color(0, 0, 255) // Set color to blue
+circle(100, 100, 50) // Draw a circle at (100, 100) with radius 50
+</code></pre>
+<p><strong>Execution:</strong></p>
+<ol>
+<li>Enter the code in the <strong>Multi-line Editor</strong> or <strong>Single-line Input</strong></li>
+<li>Click <strong>Run</strong> or press <code>Enter</code></li>
+<li>A blue circle appears on the canvas at position (100, 100)</li>
+</ol>
+<h3 id="example-2-variables--drawing">Example 2: Variables &amp; Drawing</h3>
+<p>Draw rectangles with different sizes:</p>
+<pre><code class="lang-boose">// This program demonstrates the use of variables
+width = 200
+height = 100
+color(255, 0, 0) // Set color to red
+rect(50, 50, width, height) // Draw a rectangle using variables for size
+</code></pre>
+<p><strong>Execution:</strong></p>
+<ol>
+<li>Enter the code in the <strong>Multi-line Editor</strong> or <strong>Single-line Input</strong></li>
+<li>Click <strong>Run</strong> or press <code>Enter</code></li>
+<li>A red rectangle appears on the canvas with the specified width and height</li>
+</ol>
+<p><strong>Expected Result:</strong></p>
+<ul>
+<li>First red rectangle (100�50) at position (50, 50)</li>
+<li>Second green rectangle (100�50) at position (50, 150)</li>
+</ul>
+<h3 id="example-3-loops--control-flow">Example 3: Loops &amp; Control Flow</h3>
+<p>Create a pattern using a loop:</p>
+<pre><code class="lang-boose">// Draw a diagonal line of circles
+color(0, 255, 0) // Set color to green
+for i from 0 to 5
+    circle(20*i, 20*i, 10) // Draw a circle at each step
+</code></pre>
+<p><strong>Execution:</strong></p>
+<ol>
+<li>Enter the code in the <strong>Multi-line Editor</strong> or <strong>Single-line Input</strong></li>
+<li>Click <strong>Run</strong> or press <code>Enter</code></li>
+<li>A diagonal line of circles is drawn from the top-left to the bottom-right</li>
+</ol>
+<p><strong>Expected Result:</strong> A series of 6 blue circles arranged diagonally across the canvas.</p>
+<h3 id="example-4-boolean-variables--conditions">Example 4: Boolean Variables &amp; Conditions</h3>
+<p>Control drawing based on conditions:</p>
+<pre><code class="lang-boose">// Draw based on a condition
+drawCircles = true
+color(255, 255, 0) // Set color to yellow
+if drawCircles
+    for i from 0 to 4
+        circle(100 + 20*i, 100, 10) // Draw a circle at each step
+</code></pre>
+<p><strong>Execution:</strong></p>
+<ol>
+<li>Enter the code in the <strong>Multi-line Editor</strong> or <strong>Single-line Input</strong></li>
+<li>Click <strong>Run</strong> or press <code>Enter</code></li>
+<li>Yellow circles are drawn in a row</li>
+</ol>
+<p><strong>Expected Result:</strong> A row of 5 yellow circles starting from position (100, 100). If <code>drawCircles</code> is false, no circles will be drawn.</p>
+<h3 id="example-5-methods-with-parameters">Example 5: Methods with Parameters</h3>
+<p>Define and call a method:</p>
+<pre><code class="lang-boose">// This program demonstrates defining and using a method
+drawRectangle(x, y, w, h) {
+    rect(x, y, w, h) // Draw a rectangle using the given parameters
+}
+
+// Draw two rectangles
+color(255, 165, 0) // Set color to orange
+drawRectangle(10, 10, 100, 50) // Call the method to draw a rectangle
+drawRectangle(120, 10, 80, 40) // Call the method to draw another rectangle
+</code></pre>
+<p><strong>Execution:</strong></p>
+<ol>
+<li>Enter the code in the <strong>Multi-line Editor</strong> or <strong>Single-line Input</strong></li>
+<li>Click <strong>Run</strong> or press <code>Enter</code></li>
+<li>Two rectangles are drawn at specified locations</li>
+</ol>
+<p><strong>Expected Result:</strong> An orange rectangle is drawn, and text &quot;Shape drawn!&quot; appears on the canvas.</p>
+<h3 id="example-6-handling-invalid-input-gracefully">Example 6: Handling Invalid Input Gracefully</h3>
+<p>Ensure the program can handle unexpected or invalid input without crashing:</p>
+<pre><code class="lang-boose">// This program demonstrates error handling for invalid input
+inputNumber = -10
+if inputNumber &lt; 0
+    color(255, 0, 255) // Set color to magenta for error indication
+    text(&quot;Invalid number! Please enter a positive value.&quot;, 10, 10)
+else
+    circle(inputNumber, inputNumber, 10) // Draw a circle if input is valid
+</code></pre>
+<p><strong>Execution:</strong></p>
+<ol>
+<li>Enter the code in the <strong>Multi-line Editor</strong> or <strong>Single-line Input</strong></li>
+<li>Click <strong>Run</strong> or press <code>Enter</code></li>
+<li>If the number is negative, an error message is displayed instead of crashing</li>
+</ol>
+<p><strong>Expected Result:</strong> An error message in magenta text appears on the canvas if the number is negative.</p>
+<h2 id="running-tests">Running Tests</h2>
+<ol>
+<li>Open <strong>Test Explorer</strong> in Visual Studio (<strong>View &gt; Test Explorer</strong>)</li>
+<li>Build the solution to discover all tests</li>
+<li>Click <strong>Run All</strong> to execute all tests</li>
+<li>Verify test methods have <code>[TestMethod]</code> attribute</li>
+<li>Ensure test classes have <code>[TestClass]</code> attribute</li>
+</ol>
+<h2 id="generating-documentation">Generating Documentation</h2>
+<p>To generate the documentation site using DocFX:</p>
+<ol>
+<li>Navigate to the <code>BooseApp</code> folder (containing <code>docfx.json</code>)</li>
+<li>Run <code>docfx docfx.json</code></li>
+<li>Open <code>_site/index.html</code> in your browser to view the documentation</li>
+</ol>
+<h2 id="project-structure">Project Structure</h2>
+<ul>
+<li><strong>BooseApp</strong>: Main application with Windows Forms UI</li>
+<li><strong>Medium_Scale_Software_Engineering_Project_Test</strong>: Test project with unit tests</li>
+<li><strong>docs</strong>: Documentation files including this guide</li>
+</ul>
+<h2 id="troubleshooting">Troubleshooting</h2>
+<h3 id="tests-not-discovered">Tests not discovered</h3>
+<ul>
+<li>Ensure test classes have <code>[TestClass]</code> attribute</li>
+<li>Verify test methods have <code>[TestMethod]</code> attribute</li>
+<li>Check that MSTest packages are installed correctly</li>
+<li>Rebuild the solution</li>
+</ul>
+<h3 id="application-wont-run">Application won't run</h3>
+<ul>
+<li>Verify .NET 8 SDK is installed: <code>dotnet --version</code></li>
+<li>Check that Visual Studio has the .NET desktop workload installed</li>
+<li>Try cleaning and rebuilding: <strong>Build &gt; Clean Solution</strong> followed by <strong>Build &gt; Build Solution</strong></li>
+</ul>
+<h2 id="license">License</h2>
+<p>See LICENSE file for details.</p>
+<h2 id="support--contribution">Support &amp; Contribution</h2>
+<p>For issues, questions, or contributions, please visit the <a href="https://github.com/ASE2025repos/ase-boose-assignment-Anmol131">GitHub repository</a>.</p>
 
 </article>
 
